@@ -12,13 +12,16 @@ We are a team passionate about solving real-world challenges through technology.
 - **Microservices Architecture**: Ensure scalable and robust systems.
 
 ## Tech Stack
-- **Languages/Frameworks**: Node.js, Express
-- **Databases**: PostgreSQL
-- **Tools**: Docker, REST API, WebSocket
+- **Languages/Frameworks**: Node.js, Express, C#, C++, ReactJs, JS, TS, Python, Rust and etc.
+- **Databases**: MongoDB, PostgreSQL, MySQL, MariaDB, SQLite, Redis, Cassandra, Elasticsearch, Firebase Realtime Database, Firestore, DynamoDB, InfluxDB, Neo4j, Oracle Database, Microsoft SQL Server, CouchDB, ArangoDB
+- **Tools**: Docker, REST API, WebSocket, Kubernetes, Jenkins, Git, GitHub Actions, Ansible, Terraform, Prometheus, Grafana, Postman, Swagger, Node.js, Express, Django, Flask, React, Vue.js, Flutter, Tailwind CSS, Jest, Pytest, Cypress, Selenium, AWS, GCP, Azure, Firebase, Uizard, Framer AI, Stable Diffusion
 
 ## Projects
-- **[CRM Migration]** - Transformed a legacy CRM into a microservices-based system for better performance.
-- **[AutoDelivery System]** - Developed a solution to reduce delivery times using innovative mapping.
+- **CRM Migration** - Revamped a legacy CRM into a high-performance microservices architecture, enhancing scalability, modularity, and operational efficiency.
+- **AutoDelivery System** - Engineered an innovative delivery system leveraging advanced mapping algorithms to significantly reduce delivery times and improve logistics.
+- **TaxiService** - Built a robust and scalable taxi service application, designed to handle high demand and ensure seamless user experiences.
+- **CRM app from scratch** - Created a comprehensive, high-speed CRM system from the ground up, integrating POS, HR management, and other key functionalities for streamlined business operations.
+- **E-Commerce Shop** - Developed a fast, scalable, and user-friendly e-commerce shop, optimized for performance and seamless online shopping experiences..
 
 ## Get Involved
 We’re open to collaboration! Whether you’re a developer, business owner, or enthusiast, feel free to:
