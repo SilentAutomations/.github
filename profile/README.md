@@ -6,10 +6,8 @@ Welcome to the GitHub home of **Silent Automations**, a forward-thinking IT comp
 We are a team passionate about solving real-world challenges through technology. Led by a founder with hands-on experience in building business apps, POS systems, and CRMs, we bring practical expertise to every project. Our standout work includes a CRM migration to microservices and a smart autodelivery system that optimizes delivery times.
 
 ## What We Do
-- **Custom CRM Solutions**: Streamline customer management and sales.
-- **Delivery Platforms**: Enhance logistics with smart mapping and real-time tracking.
-- **Automation Tools**: Boost efficiency with tailored workflows.
-- **Microservices Architecture**: Ensure scalable and robust systems.
+**We empower businesses to grow and rise stronger by delivering innovative, tailored solutions.
+If you're feeling lost or stuck, reach out to us, and we'll provide a prototype to kickstart your transformation.**
 
 ## Tech Stack
 - **Languages/Frameworks**: Node.js, Express, C#, C++, ReactJs, JS, TS, Python, Rust and etc.
